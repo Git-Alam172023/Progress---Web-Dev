@@ -1,0 +1,15 @@
+Local Git SetUp --
+
+                ->GitHub Repo 
+
+                ->Initialize
+
+                ->Clone
+
+                ->Changes 
+
+                ->Add 
+
+                ->Commit 
+
+                ->Push
